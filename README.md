@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi there, I'm Aeric 👋
 
-<!--
-**aericjw/aericjw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Open to work for engineering roles in software, cybersecurity, or related fields**
 
-Here are some ideas to get you started:
+### About Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Software & Cybersecurity Engineer
+- Proficient Languages:
+  - Python (Django, FastAPI, HuggingFace)
+  - Javascript (ReactJS, JQuery, NodeJS)
+  - Go (Wails)
+  - C & C++
+
+### What I'm up to:
+- Building a suprise gift for my friend with a Raspberry Pi, Go, HTML/CSS/JS, Wails
+- Building a portfolio website to practice web dev languages and deployment
+- Studying for CCSP and AWS Solutions Architect certifications
+
+### Contact me:
+- aericwalls26@gmail.com
